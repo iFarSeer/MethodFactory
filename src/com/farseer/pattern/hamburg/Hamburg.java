@@ -17,20 +17,20 @@ public class Hamburg {
     }
 
     public void prepare() {
-        System.out.println("准备...");
+        System.out.println(String.format("准备[%s]...", name));
     }
 
     /**
      *
      */
     public void make() {
-        System.out.println("制作...");
+        System.out.println(String.format("制作[%s]...", name));
     }
 
     /**
      * 打包
      */
     public void box() {
-        System.out.println("打包...");
+        System.out.println(String.format("打包[%s]...", name));
     }
 }
