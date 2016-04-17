@@ -20,5 +20,5 @@ public abstract class HamburgStore {
         return hamburg;
     }
 
-    abstract Hamburg createHamburg(String type);
+    protected abstract Hamburg createHamburg(String type);
 }
