@@ -1,4 +1,4 @@
-# MethodFactory(方法工厂)
+# MethodFactory(工厂方法)
 
 
 [赵淑超的博客](http://ifarseer.github.io/)
